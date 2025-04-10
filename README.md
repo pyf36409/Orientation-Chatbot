@@ -1,2 +1,2 @@
 Orientation Chatbot for James Cook University Singapore  
-Ollama Required
+Requires installation of Ollama and llama3.1
